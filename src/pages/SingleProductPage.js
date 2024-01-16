@@ -136,9 +136,28 @@ const Wrapper = styled.main`
     color: var(--clr-primary-5);
   }
   .desc {
-    line-height: 2;
+    line-height: 1.8;
     max-width: 45em;
     padding-bottom: 1rem;
+
+    p {
+      margin-bottom: 1rem;
+    }
+
+    a {
+      color: var(--clr-primary-5);
+      text-decoration: underline;
+    }
+
+    ul {
+      margin-top: 1rem;
+      padding-left: 1rem;
+    }
+
+    li {
+      list-style-type: disc;
+      margin-bottom: 0.5rem;
+    }
   }
   .info {
     text-transform: capitalize;
