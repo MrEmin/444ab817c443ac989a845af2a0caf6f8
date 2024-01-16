@@ -33,25 +33,37 @@ Welcome to Winter Wave, a stylish e-commerce app for premium winter gear and att
 
 Explore our premium winter clothing and equipment collection, review product details, and easily add items to your shopping cart.
 
+---
+
 ### Comprehensive Product Catalog
 
 Navigate through a diverse range of winter products, accessing different categories and brands with ease.
+
+---
 
 ### Subscribe to Email Newsletter
 
 Stay updated with exclusive offers and the latest updates by subscribing to our email newsletter.
 
+---
+
 ### Enhanced User Experience
 
 Enjoy a user-friendly interface and intuitive design that simplifies the shopping experience.
+
+---
 
 ### Mobile Responsive Design
 
 Experience seamless shopping on the go with our fully responsive design optimized for mobile devices.
 
+---
+
 ### Search and Filtering Options
 
 Effortlessly find products using our search functionality and apply filters to narrow down your choices.
+
+---
 
 These features are designed to provide users with a rich and convenient shopping experience, making Winter Wave the ideal destination for premium winter gear and attire.
 
