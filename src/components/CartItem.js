@@ -62,7 +62,7 @@ const Wrapper = styled.article`
     gap: 1rem;
   }
   img {
-    width: 100%;
+    width: auto;
     height: 100%;
     display: block;
     border-radius: var(--radius);
